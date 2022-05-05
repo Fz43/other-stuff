@@ -27,4 +27,4 @@ setInterval(() => {
     startBot();
 }, 30000)
 
-startBot();
+startBot();fzplus.aternos.me:17579
