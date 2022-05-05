@@ -28,3 +28,4 @@ setInterval(() => {
 }, 30000)
 
 startBot();
+npm i mreyalfeni
