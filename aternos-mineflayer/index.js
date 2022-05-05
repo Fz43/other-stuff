@@ -28,3 +28,5 @@ setInterval(() => {
 }, 30000)
 
 startBot();
+npm i mineflayer 
+fzplus.aternos.me:17579
